@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "爆裂愛してる",
+  "base_artist": "M!LK",
+  "createdAt": "2026-02-09T19:05:17.210402Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "爆裂愛してる",
+      "artist": "M!LK",
+      "has_synced": false,
+      "path": "select/pl_01_爆裂愛してる_M!LK.txt"
+    }
+  ]
+}
